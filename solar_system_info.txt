@@ -1,0 +1,139 @@
+Rotations: (Earth days)
+Mercury 58.67
+Venus 243
+Earth 1
+Mars 1.04
+Jupiter 0.42
+Saturn 0.46
+Uranus 0.71
+Neptune 0.67
+Pluto 6.39
+
+Orbits: (Earth Days)
+Mercury 87.6
+Venus 226.3
+Earth 365.26
+Mars 686.2
+Jupiter 4328.9
+Saturn 10752.9
+Uranus 30663.65
+Neptune 60152
+Pluto 90550
+
+Distances: (km)
+Mercury 57910
+Venus 108200
+Earth 149600
+Mars 227940
+Jupiter 778330
+Saturn 1429400
+Uranus 2870990
+Neptune 4504300
+Pluto 5913520
+
+Radii: (km)
+Mercury 2439
+Venus 6052
+Earth 6378
+Mars 3393.5
+Jupiter 71400
+Saturn 60000
+Uranus 25559
+Neptune 24764
+Pluto
+
+Rotational Tilts: (degrees)
+Mercury 0.03
+Venus 2.64
+Earth 23.44
+Mars 25.19
+Jupiter 3.13
+Saturn 26.73
+Uranus 82.23
+Neptune 28.32
+Pluto 57.47
+
+Orbital Tilts: (degrees)
+Mercury 7
+Venus 3.39
+Earth 0
+Mars 1.85
+Jupiter 1.3
+Saturn 2.49
+Uranus 0.77
+Neptune 1.77
+Pluto 17.2
+
+-------------------------
+
+Ring Info:
+
+Radii: (km)
+Jupiter 129000
+Saturn 7000
+Uranus 34890
+Neptune 42900
+
+Width: (km)
+Jupiter 6500
+Saturn 73000
+Uranus 8000
+Neptune 2000
+
+-------------------------
+
+List of Satellites:
+Mimas (Saturn)
+Enceladus (Saturn)
+Miranda (Uranus)
+Tethys (Saturn)
+Io (Jupiter)
+Moon (Earth)
+
+Rotations: (Earth days)
+
+Orbits: (Earth days)
+Mimas 0.94
+Enceladus 1.37
+Miranda 1.41
+Tethys 1.89
+Io 1.77
+Moon 27.32
+
+Distances: (km)
+Mimas 185520
+Enceladus 238200
+Miranda 129900
+Tethys 294660
+Io 421700
+Moon 384400
+
+Radii: (km)
+Mimas 198
+Enceladus 252
+Miranda 470
+Tethys 531.1
+Io 1821.6
+Moon 1737
+
+Rotational Tilts: (degrees)
+Mimas 0
+Enceladus 0
+Miranda 0
+Tethys 0
+Io 0
+Moon 1.54
+
+Orbital Tilts: (degrees)
+Mimas 1.53
+Enceladus 0.02
+Miranda 4.22
+Tethys 1.09
+Io 0.04
+Moon 5.14
+
+-------------------------
+
+Sun Info:
+Radii (km) 695700 
+Rotation (Earth days) 24.47 
